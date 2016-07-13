@@ -1,0 +1,2 @@
+1、character_change对应文件“resource.txt”,通过高级并发实现。
+2、writer_reader对应文件“storage.txt”，利用同步方法及原语实现。
